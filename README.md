@@ -6,7 +6,7 @@
 
 ### Important informations
 
-- To install is quite simple: bower install newsletter
+- To install is quite simple: bower install rafa-newsletter
 -----
 
 ## Example of use
